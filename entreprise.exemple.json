@@ -1,0 +1,6 @@
+{
+  "adresse": "https://odoo.example.com",
+  "base": "nom-de-la-base",
+  "modifications": true,
+  "modeles_modifiables": []
+}

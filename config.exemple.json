@@ -1,0 +1,8 @@
+{
+  "adresse": "https://odoo.example.com",
+  "base": "nom-de-la-base",
+  "identifiant": "prenom.nom@example.com",
+  "cle_api": "",
+  "modifications": true,
+  "modeles_modifiables": []
+}
